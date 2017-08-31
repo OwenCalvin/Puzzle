@@ -1,0 +1,195 @@
+C:\Users\oweng\Desktop\MiniPuzzle\MiniPuzzle\bin\Release\MiniPuzzle.exe.config
+C:\Users\oweng\Desktop\MiniPuzzle\MiniPuzzle\bin\Release\MiniPuzzle.exe
+C:\Users\oweng\Desktop\MiniPuzzle\MiniPuzzle\bin\Release\MiniPuzzle.pdb
+C:\Users\oweng\Desktop\MiniPuzzle\MiniPuzzle\bin\Release\Microsoft.Expression.Interactions.dll
+C:\Users\oweng\Desktop\MiniPuzzle\MiniPuzzle\bin\Release\System.Windows.Interactivity.dll
+C:\Users\oweng\Desktop\MiniPuzzle\MiniPuzzle\bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\oweng\Desktop\MiniPuzzle\MiniPuzzle\bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\oweng\Desktop\MiniPuzzle\MiniPuzzle\bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\oweng\Desktop\MiniPuzzle\MiniPuzzle\bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\oweng\Desktop\MiniPuzzle\MiniPuzzle\bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\oweng\Desktop\MiniPuzzle\MiniPuzzle\bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\oweng\Desktop\MiniPuzzle\MiniPuzzle\bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\oweng\Desktop\MiniPuzzle\MiniPuzzle\bin\Release\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\oweng\Desktop\MiniPuzzle\MiniPuzzle\bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\oweng\Desktop\MiniPuzzle\MiniPuzzle\bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\oweng\Desktop\MiniPuzzle\MiniPuzzle\bin\Release\de\System.Windows.Interactivity.resources.dll
+C:\Users\oweng\Desktop\MiniPuzzle\MiniPuzzle\bin\Release\en\System.Windows.Interactivity.resources.dll
+C:\Users\oweng\Desktop\MiniPuzzle\MiniPuzzle\bin\Release\es\System.Windows.Interactivity.resources.dll
+C:\Users\oweng\Desktop\MiniPuzzle\MiniPuzzle\bin\Release\fr\System.Windows.Interactivity.resources.dll
+C:\Users\oweng\Desktop\MiniPuzzle\MiniPuzzle\bin\Release\it\System.Windows.Interactivity.resources.dll
+C:\Users\oweng\Desktop\MiniPuzzle\MiniPuzzle\bin\Release\ja\System.Windows.Interactivity.resources.dll
+C:\Users\oweng\Desktop\MiniPuzzle\MiniPuzzle\bin\Release\ko\System.Windows.Interactivity.resources.dll
+C:\Users\oweng\Desktop\MiniPuzzle\MiniPuzzle\bin\Release\ru\System.Windows.Interactivity.resources.dll
+C:\Users\oweng\Desktop\MiniPuzzle\MiniPuzzle\bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\oweng\Desktop\MiniPuzzle\MiniPuzzle\bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\oweng\Desktop\MiniPuzzle\MiniPuzzle\obj\Release\MainWindow.g.cs
+C:\Users\oweng\Desktop\MiniPuzzle\MiniPuzzle\obj\Release\App.g.cs
+C:\Users\oweng\Desktop\MiniPuzzle\MiniPuzzle\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\oweng\Desktop\MiniPuzzle\MiniPuzzle\obj\Release\MiniPuzzle_MarkupCompile.cache
+C:\Users\oweng\Desktop\MiniPuzzle\MiniPuzzle\obj\Release\MiniPuzzle_MarkupCompile.lref
+C:\Users\oweng\Desktop\MiniPuzzle\MiniPuzzle\obj\Release\App.baml
+C:\Users\oweng\Desktop\MiniPuzzle\MiniPuzzle\obj\Release\DataStore\DataStore\DataStore.baml
+C:\Users\oweng\Desktop\MiniPuzzle\MiniPuzzle\obj\Release\MainWindow.baml
+C:\Users\oweng\Desktop\MiniPuzzle\MiniPuzzle\obj\Release\MiniPuzzle.g.resources
+C:\Users\oweng\Desktop\MiniPuzzle\MiniPuzzle\obj\Release\MiniPuzzle.Properties.Resources.resources
+C:\Users\oweng\Desktop\MiniPuzzle\MiniPuzzle\obj\Release\MiniPuzzle.csproj.GenerateResource.Cache
+C:\Users\oweng\Desktop\MiniPuzzle\MiniPuzzle\obj\Release\MiniPuzzle.exe
+C:\Users\oweng\Desktop\MiniPuzzle\MiniPuzzle\obj\Release\MiniPuzzle.pdb
+C:\Users\oweng\Desktop\MiniPuzzle\MiniPuzzle\obj\Release\MiniPuzzle.csprojResolveAssemblyReference.cache
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle2 - Copie\MiniPuzzle\bin\Release\MiniPuzzle.exe.config
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle2 - Copie\MiniPuzzle\obj\Release\MainWindow.g.cs
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle2 - Copie\MiniPuzzle\obj\Release\Switcher.g.cs
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle2 - Copie\MiniPuzzle\obj\Release\App.g.cs
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle2 - Copie\MiniPuzzle\obj\Release\MiniPuzzle_MarkupCompile.cache
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle2 - Copie\MiniPuzzle\obj\Release\MiniPuzzle_MarkupCompile.lref
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle2 - Copie\MiniPuzzle\obj\Release\MainWindow.baml
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle2 - Copie\MiniPuzzle\obj\Release\MiniPuzzle.csprojResolveAssemblyReference.cache
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle2 - Copie\MiniPuzzle\bin\Release\MiniPuzzle.exe
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle2 - Copie\MiniPuzzle\bin\Release\MiniPuzzle.pdb
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle2 - Copie\MiniPuzzle\bin\Release\Microsoft.Expression.Interactions.dll
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle2 - Copie\MiniPuzzle\bin\Release\System.Windows.Interactivity.dll
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle2 - Copie\MiniPuzzle\bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle2 - Copie\MiniPuzzle\bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle2 - Copie\MiniPuzzle\bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle2 - Copie\MiniPuzzle\bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle2 - Copie\MiniPuzzle\bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle2 - Copie\MiniPuzzle\bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle2 - Copie\MiniPuzzle\bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle2 - Copie\MiniPuzzle\bin\Release\ru\Microsoft.Expression.Interactions.resources.dll
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle2 - Copie\MiniPuzzle\bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle2 - Copie\MiniPuzzle\bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle2 - Copie\MiniPuzzle\bin\Release\de\System.Windows.Interactivity.resources.dll
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle2 - Copie\MiniPuzzle\bin\Release\en\System.Windows.Interactivity.resources.dll
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle2 - Copie\MiniPuzzle\bin\Release\es\System.Windows.Interactivity.resources.dll
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle2 - Copie\MiniPuzzle\bin\Release\fr\System.Windows.Interactivity.resources.dll
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle2 - Copie\MiniPuzzle\bin\Release\it\System.Windows.Interactivity.resources.dll
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle2 - Copie\MiniPuzzle\bin\Release\ja\System.Windows.Interactivity.resources.dll
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle2 - Copie\MiniPuzzle\bin\Release\ko\System.Windows.Interactivity.resources.dll
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle2 - Copie\MiniPuzzle\bin\Release\ru\System.Windows.Interactivity.resources.dll
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle2 - Copie\MiniPuzzle\bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle2 - Copie\MiniPuzzle\bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle2 - Copie\MiniPuzzle\obj\Release\Switcher.baml
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle2 - Copie\MiniPuzzle\obj\Release\MiniPuzzle.g.resources
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle2 - Copie\MiniPuzzle\obj\Release\MiniPuzzle.Properties.Resources.resources
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle2 - Copie\MiniPuzzle\obj\Release\MiniPuzzle.csproj.GenerateResource.Cache
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle2 - Copie\MiniPuzzle\obj\Release\MiniPuzzle.exe
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle2 - Copie\MiniPuzzle\obj\Release\MiniPuzzle.pdb
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle2 - Copie\MiniPuzzle\obj\Release\GeneratedInternalTypeHelper.g.cs
+\\s2.rpn.ch\home\CPLN\Eleves\ET\GombasOw\MiniPuzzle - Switcher\MiniPuzzle\bin\Release\MiniPuzzle.exe.config
+\\s2.rpn.ch\home\CPLN\Eleves\ET\GombasOw\MiniPuzzle - Switcher\MiniPuzzle\obj\Release\MiniPuzzle.exe
+\\s2.rpn.ch\home\CPLN\Eleves\ET\GombasOw\MiniPuzzle - Switcher\MiniPuzzle\obj\Release\MiniPuzzle.pdb
+\\s2.rpn.ch\home\CPLN\Eleves\ET\GombasOw\MiniPuzzle - Switcher\MiniPuzzle\bin\Release\MiniPuzzle.exe
+\\s2.rpn.ch\home\CPLN\Eleves\ET\GombasOw\MiniPuzzle - Switcher\MiniPuzzle\bin\Release\MiniPuzzle.pdb
+\\s2.rpn.ch\home\CPLN\Eleves\ET\GombasOw\MiniPuzzle - Switcher\MiniPuzzle\bin\Release\Microsoft.Expression.Interactions.dll
+\\s2.rpn.ch\home\CPLN\Eleves\ET\GombasOw\MiniPuzzle - Switcher\MiniPuzzle\bin\Release\System.Windows.Interactivity.dll
+\\s2.rpn.ch\home\CPLN\Eleves\ET\GombasOw\MiniPuzzle - Switcher\MiniPuzzle\bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+\\s2.rpn.ch\home\CPLN\Eleves\ET\GombasOw\MiniPuzzle - Switcher\MiniPuzzle\bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+\\s2.rpn.ch\home\CPLN\Eleves\ET\GombasOw\MiniPuzzle - Switcher\MiniPuzzle\bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+\\s2.rpn.ch\home\CPLN\Eleves\ET\GombasOw\MiniPuzzle - Switcher\MiniPuzzle\bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+\\s2.rpn.ch\home\CPLN\Eleves\ET\GombasOw\MiniPuzzle - Switcher\MiniPuzzle\bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+\\s2.rpn.ch\home\CPLN\Eleves\ET\GombasOw\MiniPuzzle - Switcher\MiniPuzzle\bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+\\s2.rpn.ch\home\CPLN\Eleves\ET\GombasOw\MiniPuzzle - Switcher\MiniPuzzle\bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+\\s2.rpn.ch\home\CPLN\Eleves\ET\GombasOw\MiniPuzzle - Switcher\MiniPuzzle\bin\Release\ru\Microsoft.Expression.Interactions.resources.dll
+\\s2.rpn.ch\home\CPLN\Eleves\ET\GombasOw\MiniPuzzle - Switcher\MiniPuzzle\bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+\\s2.rpn.ch\home\CPLN\Eleves\ET\GombasOw\MiniPuzzle - Switcher\MiniPuzzle\bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+\\s2.rpn.ch\home\CPLN\Eleves\ET\GombasOw\MiniPuzzle - Switcher\MiniPuzzle\bin\Release\de\System.Windows.Interactivity.resources.dll
+\\s2.rpn.ch\home\CPLN\Eleves\ET\GombasOw\MiniPuzzle - Switcher\MiniPuzzle\bin\Release\en\System.Windows.Interactivity.resources.dll
+\\s2.rpn.ch\home\CPLN\Eleves\ET\GombasOw\MiniPuzzle - Switcher\MiniPuzzle\bin\Release\es\System.Windows.Interactivity.resources.dll
+\\s2.rpn.ch\home\CPLN\Eleves\ET\GombasOw\MiniPuzzle - Switcher\MiniPuzzle\bin\Release\fr\System.Windows.Interactivity.resources.dll
+\\s2.rpn.ch\home\CPLN\Eleves\ET\GombasOw\MiniPuzzle - Switcher\MiniPuzzle\bin\Release\it\System.Windows.Interactivity.resources.dll
+\\s2.rpn.ch\home\CPLN\Eleves\ET\GombasOw\MiniPuzzle - Switcher\MiniPuzzle\bin\Release\ja\System.Windows.Interactivity.resources.dll
+\\s2.rpn.ch\home\CPLN\Eleves\ET\GombasOw\MiniPuzzle - Switcher\MiniPuzzle\bin\Release\ko\System.Windows.Interactivity.resources.dll
+\\s2.rpn.ch\home\CPLN\Eleves\ET\GombasOw\MiniPuzzle - Switcher\MiniPuzzle\bin\Release\ru\System.Windows.Interactivity.resources.dll
+\\s2.rpn.ch\home\CPLN\Eleves\ET\GombasOw\MiniPuzzle - Switcher\MiniPuzzle\bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+\\s2.rpn.ch\home\CPLN\Eleves\ET\GombasOw\MiniPuzzle - Switcher\MiniPuzzle\bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+\\s2.rpn.ch\home\CPLN\Eleves\ET\GombasOw\MiniPuzzle - Switcher\MiniPuzzle\obj\Release\MiniPuzzle.csprojResolveAssemblyReference.cache
+\\s2.rpn.ch\home\CPLN\Eleves\ET\GombasOw\MiniPuzzle - Switcher\MiniPuzzle\obj\Release\MainWindow.g.cs
+\\s2.rpn.ch\home\CPLN\Eleves\ET\GombasOw\MiniPuzzle - Switcher\MiniPuzzle\obj\Release\Switcher.g.cs
+\\s2.rpn.ch\home\CPLN\Eleves\ET\GombasOw\MiniPuzzle - Switcher\MiniPuzzle\obj\Release\App.g.cs
+\\s2.rpn.ch\home\CPLN\Eleves\ET\GombasOw\MiniPuzzle - Switcher\MiniPuzzle\obj\Release\GeneratedInternalTypeHelper.g.cs
+\\s2.rpn.ch\home\CPLN\Eleves\ET\GombasOw\MiniPuzzle - Switcher\MiniPuzzle\obj\Release\MiniPuzzle_MarkupCompile.cache
+\\s2.rpn.ch\home\CPLN\Eleves\ET\GombasOw\MiniPuzzle - Switcher\MiniPuzzle\obj\Release\MiniPuzzle_MarkupCompile.lref
+\\s2.rpn.ch\home\CPLN\Eleves\ET\GombasOw\MiniPuzzle - Switcher\MiniPuzzle\obj\Release\MainWindow.baml
+\\s2.rpn.ch\home\CPLN\Eleves\ET\GombasOw\MiniPuzzle - Switcher\MiniPuzzle\obj\Release\Switcher.baml
+\\s2.rpn.ch\home\CPLN\Eleves\ET\GombasOw\MiniPuzzle - Switcher\MiniPuzzle\obj\Release\MiniPuzzle.g.resources
+\\s2.rpn.ch\home\CPLN\Eleves\ET\GombasOw\MiniPuzzle - Switcher\MiniPuzzle\obj\Release\MiniPuzzle.Properties.Resources.resources
+\\s2.rpn.ch\home\CPLN\Eleves\ET\GombasOw\MiniPuzzle - Switcher\MiniPuzzle\obj\Release\MiniPuzzle.csproj.GenerateResource.Cache
+D:\MiniPuzzle - Switcher\MiniPuzzle\bin\Release\MiniPuzzle.exe.config
+D:\MiniPuzzle - Switcher\MiniPuzzle\obj\Release\MiniPuzzle.exe
+D:\MiniPuzzle - Switcher\MiniPuzzle\obj\Release\MiniPuzzle.pdb
+D:\MiniPuzzle - Switcher\MiniPuzzle\bin\Release\MiniPuzzle.exe
+D:\MiniPuzzle - Switcher\MiniPuzzle\bin\Release\MiniPuzzle.pdb
+D:\MiniPuzzle - Switcher\MiniPuzzle\bin\Release\Microsoft.Expression.Interactions.dll
+D:\MiniPuzzle - Switcher\MiniPuzzle\bin\Release\System.Windows.Interactivity.dll
+D:\MiniPuzzle - Switcher\MiniPuzzle\bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+D:\MiniPuzzle - Switcher\MiniPuzzle\bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+D:\MiniPuzzle - Switcher\MiniPuzzle\bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+D:\MiniPuzzle - Switcher\MiniPuzzle\bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+D:\MiniPuzzle - Switcher\MiniPuzzle\bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+D:\MiniPuzzle - Switcher\MiniPuzzle\bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+D:\MiniPuzzle - Switcher\MiniPuzzle\bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+D:\MiniPuzzle - Switcher\MiniPuzzle\bin\Release\ru\Microsoft.Expression.Interactions.resources.dll
+D:\MiniPuzzle - Switcher\MiniPuzzle\bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\MiniPuzzle - Switcher\MiniPuzzle\bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\MiniPuzzle - Switcher\MiniPuzzle\bin\Release\de\System.Windows.Interactivity.resources.dll
+D:\MiniPuzzle - Switcher\MiniPuzzle\bin\Release\en\System.Windows.Interactivity.resources.dll
+D:\MiniPuzzle - Switcher\MiniPuzzle\bin\Release\es\System.Windows.Interactivity.resources.dll
+D:\MiniPuzzle - Switcher\MiniPuzzle\bin\Release\fr\System.Windows.Interactivity.resources.dll
+D:\MiniPuzzle - Switcher\MiniPuzzle\bin\Release\it\System.Windows.Interactivity.resources.dll
+D:\MiniPuzzle - Switcher\MiniPuzzle\bin\Release\ja\System.Windows.Interactivity.resources.dll
+D:\MiniPuzzle - Switcher\MiniPuzzle\bin\Release\ko\System.Windows.Interactivity.resources.dll
+D:\MiniPuzzle - Switcher\MiniPuzzle\bin\Release\ru\System.Windows.Interactivity.resources.dll
+D:\MiniPuzzle - Switcher\MiniPuzzle\bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\MiniPuzzle - Switcher\MiniPuzzle\bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\MiniPuzzle - Switcher\MiniPuzzle\obj\Release\MiniPuzzle.csprojResolveAssemblyReference.cache
+D:\MiniPuzzle - Switcher\MiniPuzzle\obj\Release\MainWindow.g.cs
+D:\MiniPuzzle - Switcher\MiniPuzzle\obj\Release\Switcher.g.cs
+D:\MiniPuzzle - Switcher\MiniPuzzle\obj\Release\App.g.cs
+D:\MiniPuzzle - Switcher\MiniPuzzle\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\MiniPuzzle - Switcher\MiniPuzzle\obj\Release\MiniPuzzle_MarkupCompile.cache
+D:\MiniPuzzle - Switcher\MiniPuzzle\obj\Release\MiniPuzzle_MarkupCompile.lref
+D:\MiniPuzzle - Switcher\MiniPuzzle\obj\Release\MainWindow.baml
+D:\MiniPuzzle - Switcher\MiniPuzzle\obj\Release\Switcher.baml
+D:\MiniPuzzle - Switcher\MiniPuzzle\obj\Release\MiniPuzzle.g.resources
+D:\MiniPuzzle - Switcher\MiniPuzzle\obj\Release\MiniPuzzle.Properties.Resources.resources
+D:\MiniPuzzle - Switcher\MiniPuzzle\obj\Release\MiniPuzzle.csproj.GenerateResource.Cache
+D:\MiniPuzzle\MiniPuzzle\bin\Release\MiniPuzzle.exe.config
+D:\MiniPuzzle\MiniPuzzle\obj\Release\MiniPuzzle.exe
+D:\MiniPuzzle\MiniPuzzle\obj\Release\MiniPuzzle.pdb
+D:\MiniPuzzle\MiniPuzzle\bin\Release\MiniPuzzle.exe
+D:\MiniPuzzle\MiniPuzzle\bin\Release\MiniPuzzle.pdb
+D:\MiniPuzzle\MiniPuzzle\bin\Release\Microsoft.Expression.Interactions.dll
+D:\MiniPuzzle\MiniPuzzle\bin\Release\System.Windows.Interactivity.dll
+D:\MiniPuzzle\MiniPuzzle\bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+D:\MiniPuzzle\MiniPuzzle\bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+D:\MiniPuzzle\MiniPuzzle\bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+D:\MiniPuzzle\MiniPuzzle\bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+D:\MiniPuzzle\MiniPuzzle\bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+D:\MiniPuzzle\MiniPuzzle\bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+D:\MiniPuzzle\MiniPuzzle\bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+D:\MiniPuzzle\MiniPuzzle\bin\Release\ru\Microsoft.Expression.Interactions.resources.dll
+D:\MiniPuzzle\MiniPuzzle\bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\MiniPuzzle\MiniPuzzle\bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\MiniPuzzle\MiniPuzzle\bin\Release\de\System.Windows.Interactivity.resources.dll
+D:\MiniPuzzle\MiniPuzzle\bin\Release\en\System.Windows.Interactivity.resources.dll
+D:\MiniPuzzle\MiniPuzzle\bin\Release\es\System.Windows.Interactivity.resources.dll
+D:\MiniPuzzle\MiniPuzzle\bin\Release\fr\System.Windows.Interactivity.resources.dll
+D:\MiniPuzzle\MiniPuzzle\bin\Release\it\System.Windows.Interactivity.resources.dll
+D:\MiniPuzzle\MiniPuzzle\bin\Release\ja\System.Windows.Interactivity.resources.dll
+D:\MiniPuzzle\MiniPuzzle\bin\Release\ko\System.Windows.Interactivity.resources.dll
+D:\MiniPuzzle\MiniPuzzle\bin\Release\ru\System.Windows.Interactivity.resources.dll
+D:\MiniPuzzle\MiniPuzzle\bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\MiniPuzzle\MiniPuzzle\bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\MiniPuzzle\MiniPuzzle\obj\Release\MiniPuzzle.csprojResolveAssemblyReference.cache
+D:\MiniPuzzle\MiniPuzzle\obj\Release\MainWindow.g.cs
+D:\MiniPuzzle\MiniPuzzle\obj\Release\Switcher.g.cs
+D:\MiniPuzzle\MiniPuzzle\obj\Release\App.g.cs
+D:\MiniPuzzle\MiniPuzzle\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\MiniPuzzle\MiniPuzzle\obj\Release\MiniPuzzle_MarkupCompile.cache
+D:\MiniPuzzle\MiniPuzzle\obj\Release\MiniPuzzle_MarkupCompile.lref
+D:\MiniPuzzle\MiniPuzzle\obj\Release\MainWindow.baml
+D:\MiniPuzzle\MiniPuzzle\obj\Release\Switcher.baml
+D:\MiniPuzzle\MiniPuzzle\obj\Release\MiniPuzzle.g.resources
+D:\MiniPuzzle\MiniPuzzle\obj\Release\MiniPuzzle.Properties.Resources.resources
+D:\MiniPuzzle\MiniPuzzle\obj\Release\MiniPuzzle.csproj.GenerateResource.Cache

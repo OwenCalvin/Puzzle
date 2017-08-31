@@ -1,0 +1,246 @@
+\\s2.rpn.ch\home\CPLN\Eleves\ET\GombasOw\_CPLN\Informatique\Ateliers\Programmation\2A3S\Tellan\MiniPuzzle\MiniPuzzle\bin\Debug\MiniPuzzle.exe.config
+\\s2.rpn.ch\home\CPLN\Eleves\ET\GombasOw\_CPLN\Informatique\Ateliers\Programmation\2A3S\Tellan\MiniPuzzle\MiniPuzzle\bin\Debug\MiniPuzzle.exe
+\\s2.rpn.ch\home\CPLN\Eleves\ET\GombasOw\_CPLN\Informatique\Ateliers\Programmation\2A3S\Tellan\MiniPuzzle\MiniPuzzle\bin\Debug\MiniPuzzle.pdb
+\\s2.rpn.ch\home\CPLN\Eleves\ET\GombasOw\_CPLN\Informatique\Ateliers\Programmation\2A3S\Tellan\MiniPuzzle\MiniPuzzle\obj\Debug\MiniPuzzle.csprojResolveAssemblyReference.cache
+\\s2.rpn.ch\home\CPLN\Eleves\ET\GombasOw\_CPLN\Informatique\Ateliers\Programmation\2A3S\Tellan\MiniPuzzle\MiniPuzzle\obj\Debug\MainWindow.g.cs
+\\s2.rpn.ch\home\CPLN\Eleves\ET\GombasOw\_CPLN\Informatique\Ateliers\Programmation\2A3S\Tellan\MiniPuzzle\MiniPuzzle\obj\Debug\App.g.cs
+\\s2.rpn.ch\home\CPLN\Eleves\ET\GombasOw\_CPLN\Informatique\Ateliers\Programmation\2A3S\Tellan\MiniPuzzle\MiniPuzzle\obj\Debug\MiniPuzzle_MarkupCompile.cache
+\\s2.rpn.ch\home\CPLN\Eleves\ET\GombasOw\_CPLN\Informatique\Ateliers\Programmation\2A3S\Tellan\MiniPuzzle\MiniPuzzle\obj\Debug\MiniPuzzle_MarkupCompile.lref
+\\s2.rpn.ch\home\CPLN\Eleves\ET\GombasOw\_CPLN\Informatique\Ateliers\Programmation\2A3S\Tellan\MiniPuzzle\MiniPuzzle\obj\Debug\MainWindow.baml
+\\s2.rpn.ch\home\CPLN\Eleves\ET\GombasOw\_CPLN\Informatique\Ateliers\Programmation\2A3S\Tellan\MiniPuzzle\MiniPuzzle\obj\Debug\MiniPuzzle.g.resources
+\\s2.rpn.ch\home\CPLN\Eleves\ET\GombasOw\_CPLN\Informatique\Ateliers\Programmation\2A3S\Tellan\MiniPuzzle\MiniPuzzle\obj\Debug\MiniPuzzle.Properties.Resources.resources
+\\s2.rpn.ch\home\CPLN\Eleves\ET\GombasOw\_CPLN\Informatique\Ateliers\Programmation\2A3S\Tellan\MiniPuzzle\MiniPuzzle\obj\Debug\MiniPuzzle.csproj.GenerateResource.Cache
+\\s2.rpn.ch\home\CPLN\Eleves\ET\GombasOw\_CPLN\Informatique\Ateliers\Programmation\2A3S\Tellan\MiniPuzzle\MiniPuzzle\obj\Debug\MiniPuzzle.exe
+\\s2.rpn.ch\home\CPLN\Eleves\ET\GombasOw\_CPLN\Informatique\Ateliers\Programmation\2A3S\Tellan\MiniPuzzle\MiniPuzzle\obj\Debug\MiniPuzzle.pdb
+C:\Users\oweng\Desktop\MiniPuzzle\MiniPuzzle\bin\Debug\MiniPuzzle.exe.config
+C:\Users\oweng\Desktop\MiniPuzzle\MiniPuzzle\obj\Debug\MiniPuzzle.exe
+C:\Users\oweng\Desktop\MiniPuzzle\MiniPuzzle\obj\Debug\MiniPuzzle.pdb
+C:\Users\oweng\Desktop\MiniPuzzle\MiniPuzzle\bin\Debug\MiniPuzzle.exe
+C:\Users\oweng\Desktop\MiniPuzzle\MiniPuzzle\bin\Debug\MiniPuzzle.pdb
+C:\Users\oweng\Desktop\MiniPuzzle\MiniPuzzle\obj\Debug\MiniPuzzle.csprojResolveAssemblyReference.cache
+C:\Users\oweng\Desktop\MiniPuzzle\MiniPuzzle\obj\Debug\MainWindow.g.cs
+C:\Users\oweng\Desktop\MiniPuzzle\MiniPuzzle\obj\Debug\App.g.cs
+C:\Users\oweng\Desktop\MiniPuzzle\MiniPuzzle\obj\Debug\MiniPuzzle_MarkupCompile.cache
+C:\Users\oweng\Desktop\MiniPuzzle\MiniPuzzle\obj\Debug\MiniPuzzle_MarkupCompile.lref
+C:\Users\oweng\Desktop\MiniPuzzle\MiniPuzzle\obj\Debug\MainWindow.baml
+C:\Users\oweng\Desktop\MiniPuzzle\MiniPuzzle\obj\Debug\MiniPuzzle.g.resources
+C:\Users\oweng\Desktop\MiniPuzzle\MiniPuzzle\obj\Debug\MiniPuzzle.Properties.Resources.resources
+C:\Users\oweng\Desktop\MiniPuzzle\MiniPuzzle\obj\Debug\MiniPuzzle.csproj.GenerateResource.Cache
+C:\Users\oweng\Desktop\MiniPuzzle\MiniPuzzle\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\oweng\Desktop\MiniPuzzle\MiniPuzzle\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\oweng\Desktop\MiniPuzzle\MiniPuzzle\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\oweng\Desktop\MiniPuzzle\MiniPuzzle\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\oweng\Desktop\MiniPuzzle\MiniPuzzle\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\oweng\Desktop\MiniPuzzle\MiniPuzzle\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\oweng\Desktop\MiniPuzzle\MiniPuzzle\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\oweng\Desktop\MiniPuzzle\MiniPuzzle\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\oweng\Desktop\MiniPuzzle\MiniPuzzle\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\oweng\Desktop\MiniPuzzle\MiniPuzzle\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\oweng\Desktop\MiniPuzzle\MiniPuzzle\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\oweng\Desktop\MiniPuzzle\MiniPuzzle\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\oweng\Desktop\MiniPuzzle\MiniPuzzle\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\oweng\Desktop\MiniPuzzle\MiniPuzzle\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\oweng\Desktop\MiniPuzzle\MiniPuzzle\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\oweng\Desktop\MiniPuzzle\MiniPuzzle\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\oweng\Desktop\MiniPuzzle\MiniPuzzle\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\oweng\Desktop\MiniPuzzle\MiniPuzzle\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\oweng\Desktop\MiniPuzzle\MiniPuzzle\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\oweng\Desktop\MiniPuzzle\MiniPuzzle\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\oweng\Desktop\MiniPuzzle\MiniPuzzle\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\oweng\Desktop\MiniPuzzle\MiniPuzzle\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\oweng\Desktop\MiniPuzzle\MiniPuzzle\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\oweng\Desktop\MiniPuzzle\MiniPuzzle\obj\Debug\App.baml
+C:\Users\oweng\Desktop\MiniPuzzle\MiniPuzzle\obj\Debug\DataStore\DataStore\DataStore.baml
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle2 - Copie\MiniPuzzle\bin\Debug\MiniPuzzle.exe.config
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle2 - Copie\MiniPuzzle\obj\Debug\MiniPuzzle.exe
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle2 - Copie\MiniPuzzle\obj\Debug\MiniPuzzle.pdb
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle2 - Copie\MiniPuzzle\bin\Debug\MiniPuzzle.exe
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle2 - Copie\MiniPuzzle\bin\Debug\MiniPuzzle.pdb
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle2 - Copie\MiniPuzzle\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle2 - Copie\MiniPuzzle\bin\Debug\System.Windows.Interactivity.dll
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle2 - Copie\MiniPuzzle\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle2 - Copie\MiniPuzzle\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle2 - Copie\MiniPuzzle\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle2 - Copie\MiniPuzzle\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle2 - Copie\MiniPuzzle\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle2 - Copie\MiniPuzzle\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle2 - Copie\MiniPuzzle\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle2 - Copie\MiniPuzzle\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle2 - Copie\MiniPuzzle\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle2 - Copie\MiniPuzzle\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle2 - Copie\MiniPuzzle\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle2 - Copie\MiniPuzzle\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle2 - Copie\MiniPuzzle\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle2 - Copie\MiniPuzzle\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle2 - Copie\MiniPuzzle\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle2 - Copie\MiniPuzzle\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle2 - Copie\MiniPuzzle\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle2 - Copie\MiniPuzzle\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle2 - Copie\MiniPuzzle\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle2 - Copie\MiniPuzzle\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle2 - Copie\MiniPuzzle\obj\Debug\MiniPuzzle.csprojResolveAssemblyReference.cache
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle2 - Copie\MiniPuzzle\obj\Debug\MainWindow.g.cs
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle2 - Copie\MiniPuzzle\obj\Debug\Switcher.g.cs
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle2 - Copie\MiniPuzzle\obj\Debug\App.g.cs
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle2 - Copie\MiniPuzzle\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle2 - Copie\MiniPuzzle\obj\Debug\MiniPuzzle_MarkupCompile.cache
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle2 - Copie\MiniPuzzle\obj\Debug\MiniPuzzle_MarkupCompile.lref
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle2 - Copie\MiniPuzzle\obj\Debug\MainWindow.baml
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle2 - Copie\MiniPuzzle\obj\Debug\Switcher.baml
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle2 - Copie\MiniPuzzle\obj\Debug\MiniPuzzle.g.resources
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle2 - Copie\MiniPuzzle\obj\Debug\MiniPuzzle.Properties.Resources.resources
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle2 - Copie\MiniPuzzle\obj\Debug\MiniPuzzle.csproj.GenerateResource.Cache
+D:\MiniPuzzle - Switcher\MiniPuzzle\bin\Debug\MiniPuzzle.exe.config
+D:\MiniPuzzle - Switcher\MiniPuzzle\obj\Debug\MiniPuzzle.exe
+D:\MiniPuzzle - Switcher\MiniPuzzle\obj\Debug\MiniPuzzle.pdb
+D:\MiniPuzzle - Switcher\MiniPuzzle\bin\Debug\MiniPuzzle.exe
+D:\MiniPuzzle - Switcher\MiniPuzzle\bin\Debug\MiniPuzzle.pdb
+D:\MiniPuzzle - Switcher\MiniPuzzle\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\MiniPuzzle - Switcher\MiniPuzzle\bin\Debug\System.Windows.Interactivity.dll
+D:\MiniPuzzle - Switcher\MiniPuzzle\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+D:\MiniPuzzle - Switcher\MiniPuzzle\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+D:\MiniPuzzle - Switcher\MiniPuzzle\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+D:\MiniPuzzle - Switcher\MiniPuzzle\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+D:\MiniPuzzle - Switcher\MiniPuzzle\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+D:\MiniPuzzle - Switcher\MiniPuzzle\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+D:\MiniPuzzle - Switcher\MiniPuzzle\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+D:\MiniPuzzle - Switcher\MiniPuzzle\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+D:\MiniPuzzle - Switcher\MiniPuzzle\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\MiniPuzzle - Switcher\MiniPuzzle\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\MiniPuzzle - Switcher\MiniPuzzle\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\MiniPuzzle - Switcher\MiniPuzzle\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\MiniPuzzle - Switcher\MiniPuzzle\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\MiniPuzzle - Switcher\MiniPuzzle\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\MiniPuzzle - Switcher\MiniPuzzle\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\MiniPuzzle - Switcher\MiniPuzzle\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\MiniPuzzle - Switcher\MiniPuzzle\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\MiniPuzzle - Switcher\MiniPuzzle\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+D:\MiniPuzzle - Switcher\MiniPuzzle\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\MiniPuzzle - Switcher\MiniPuzzle\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\MiniPuzzle - Switcher\MiniPuzzle\obj\Debug\MiniPuzzle.csprojResolveAssemblyReference.cache
+D:\MiniPuzzle - Switcher\MiniPuzzle\obj\Debug\MainWindow.g.cs
+D:\MiniPuzzle - Switcher\MiniPuzzle\obj\Debug\Switcher.g.cs
+D:\MiniPuzzle - Switcher\MiniPuzzle\obj\Debug\App.g.cs
+D:\MiniPuzzle - Switcher\MiniPuzzle\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\MiniPuzzle - Switcher\MiniPuzzle\obj\Debug\MiniPuzzle_MarkupCompile.cache
+D:\MiniPuzzle - Switcher\MiniPuzzle\obj\Debug\MiniPuzzle_MarkupCompile.lref
+D:\MiniPuzzle - Switcher\MiniPuzzle\obj\Debug\MainWindow.baml
+D:\MiniPuzzle - Switcher\MiniPuzzle\obj\Debug\Switcher.baml
+D:\MiniPuzzle - Switcher\MiniPuzzle\obj\Debug\MiniPuzzle.g.resources
+D:\MiniPuzzle - Switcher\MiniPuzzle\obj\Debug\MiniPuzzle.Properties.Resources.resources
+D:\MiniPuzzle - Switcher\MiniPuzzle\obj\Debug\MiniPuzzle.csproj.GenerateResource.Cache
+D:\MiniPuzzle\MiniPuzzle\bin\Debug\MiniPuzzle.exe.config
+D:\MiniPuzzle\MiniPuzzle\obj\Debug\MiniPuzzle.exe
+D:\MiniPuzzle\MiniPuzzle\obj\Debug\MiniPuzzle.pdb
+D:\MiniPuzzle\MiniPuzzle\bin\Debug\MiniPuzzle.exe
+D:\MiniPuzzle\MiniPuzzle\bin\Debug\MiniPuzzle.pdb
+D:\MiniPuzzle\MiniPuzzle\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\MiniPuzzle\MiniPuzzle\bin\Debug\System.Windows.Interactivity.dll
+D:\MiniPuzzle\MiniPuzzle\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+D:\MiniPuzzle\MiniPuzzle\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+D:\MiniPuzzle\MiniPuzzle\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+D:\MiniPuzzle\MiniPuzzle\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+D:\MiniPuzzle\MiniPuzzle\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+D:\MiniPuzzle\MiniPuzzle\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+D:\MiniPuzzle\MiniPuzzle\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+D:\MiniPuzzle\MiniPuzzle\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+D:\MiniPuzzle\MiniPuzzle\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\MiniPuzzle\MiniPuzzle\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\MiniPuzzle\MiniPuzzle\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\MiniPuzzle\MiniPuzzle\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\MiniPuzzle\MiniPuzzle\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\MiniPuzzle\MiniPuzzle\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\MiniPuzzle\MiniPuzzle\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\MiniPuzzle\MiniPuzzle\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\MiniPuzzle\MiniPuzzle\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\MiniPuzzle\MiniPuzzle\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+D:\MiniPuzzle\MiniPuzzle\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\MiniPuzzle\MiniPuzzle\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\MiniPuzzle\MiniPuzzle\obj\Debug\MiniPuzzle.csprojResolveAssemblyReference.cache
+D:\MiniPuzzle\MiniPuzzle\obj\Debug\MainWindow.g.cs
+D:\MiniPuzzle\MiniPuzzle\obj\Debug\Switcher.g.cs
+D:\MiniPuzzle\MiniPuzzle\obj\Debug\App.g.cs
+D:\MiniPuzzle\MiniPuzzle\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\MiniPuzzle\MiniPuzzle\obj\Debug\MiniPuzzle_MarkupCompile.cache
+D:\MiniPuzzle\MiniPuzzle\obj\Debug\MiniPuzzle_MarkupCompile.lref
+D:\MiniPuzzle\MiniPuzzle\obj\Debug\MainWindow.baml
+D:\MiniPuzzle\MiniPuzzle\obj\Debug\Switcher.baml
+D:\MiniPuzzle\MiniPuzzle\obj\Debug\MiniPuzzle.g.resources
+D:\MiniPuzzle\MiniPuzzle\obj\Debug\MiniPuzzle.Properties.Resources.resources
+D:\MiniPuzzle\MiniPuzzle\obj\Debug\MiniPuzzle.csproj.GenerateResource.Cache
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle Final\MiniPuzzle\bin\Debug\MiniPuzzle.exe.config
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle Final\MiniPuzzle\obj\Debug\MiniPuzzle.exe
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle Final\MiniPuzzle\obj\Debug\MiniPuzzle.pdb
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle Final\MiniPuzzle\bin\Debug\MiniPuzzle.exe
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle Final\MiniPuzzle\bin\Debug\MiniPuzzle.pdb
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle Final\MiniPuzzle\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle Final\MiniPuzzle\bin\Debug\System.Windows.Interactivity.dll
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle Final\MiniPuzzle\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle Final\MiniPuzzle\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle Final\MiniPuzzle\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle Final\MiniPuzzle\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle Final\MiniPuzzle\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle Final\MiniPuzzle\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle Final\MiniPuzzle\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle Final\MiniPuzzle\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle Final\MiniPuzzle\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle Final\MiniPuzzle\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle Final\MiniPuzzle\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle Final\MiniPuzzle\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle Final\MiniPuzzle\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle Final\MiniPuzzle\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle Final\MiniPuzzle\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle Final\MiniPuzzle\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle Final\MiniPuzzle\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle Final\MiniPuzzle\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle Final\MiniPuzzle\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle Final\MiniPuzzle\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle Final\MiniPuzzle\obj\Debug\MiniPuzzle.csprojResolveAssemblyReference.cache
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle Final\MiniPuzzle\obj\Debug\MainWindow.g.cs
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle Final\MiniPuzzle\obj\Debug\Switcher.g.cs
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle Final\MiniPuzzle\obj\Debug\App.g.cs
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle Final\MiniPuzzle\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle Final\MiniPuzzle\obj\Debug\MiniPuzzle_MarkupCompile.cache
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle Final\MiniPuzzle\obj\Debug\MiniPuzzle_MarkupCompile.lref
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle Final\MiniPuzzle\obj\Debug\MainWindow.baml
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle Final\MiniPuzzle\obj\Debug\Switcher.baml
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle Final\MiniPuzzle\obj\Debug\MiniPuzzle.g.resources
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle Final\MiniPuzzle\obj\Debug\MiniPuzzle.Properties.Resources.resources
+D:\Documents\_OWEN\Programmation\C#\MiniPuzzle Final\MiniPuzzle\obj\Debug\MiniPuzzle.csproj.GenerateResource.Cache
+D:\Documents\_.OWEN\Programmation\C#\Terminé\Puzzle\MiniPuzzle\bin\Debug\MiniPuzzle.exe.config
+D:\Documents\_.OWEN\Programmation\C#\Terminé\Puzzle\MiniPuzzle\bin\Debug\MiniPuzzle.exe
+D:\Documents\_.OWEN\Programmation\C#\Terminé\Puzzle\MiniPuzzle\bin\Debug\MiniPuzzle.pdb
+D:\Documents\_.OWEN\Programmation\C#\Terminé\Puzzle\MiniPuzzle\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+D:\Documents\_.OWEN\Programmation\C#\Terminé\Puzzle\MiniPuzzle\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+D:\Documents\_.OWEN\Programmation\C#\Terminé\Puzzle\MiniPuzzle\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+D:\Documents\_.OWEN\Programmation\C#\Terminé\Puzzle\MiniPuzzle\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+D:\Documents\_.OWEN\Programmation\C#\Terminé\Puzzle\MiniPuzzle\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+D:\Documents\_.OWEN\Programmation\C#\Terminé\Puzzle\MiniPuzzle\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+D:\Documents\_.OWEN\Programmation\C#\Terminé\Puzzle\MiniPuzzle\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+D:\Documents\_.OWEN\Programmation\C#\Terminé\Puzzle\MiniPuzzle\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+D:\Documents\_.OWEN\Programmation\C#\Terminé\Puzzle\MiniPuzzle\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\Documents\_.OWEN\Programmation\C#\Terminé\Puzzle\MiniPuzzle\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\Documents\_.OWEN\Programmation\C#\Terminé\Puzzle\MiniPuzzle\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\Documents\_.OWEN\Programmation\C#\Terminé\Puzzle\MiniPuzzle\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\Documents\_.OWEN\Programmation\C#\Terminé\Puzzle\MiniPuzzle\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\Documents\_.OWEN\Programmation\C#\Terminé\Puzzle\MiniPuzzle\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\Documents\_.OWEN\Programmation\C#\Terminé\Puzzle\MiniPuzzle\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\Documents\_.OWEN\Programmation\C#\Terminé\Puzzle\MiniPuzzle\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\Documents\_.OWEN\Programmation\C#\Terminé\Puzzle\MiniPuzzle\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\Documents\_.OWEN\Programmation\C#\Terminé\Puzzle\MiniPuzzle\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+D:\Documents\_.OWEN\Programmation\C#\Terminé\Puzzle\MiniPuzzle\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\Documents\_.OWEN\Programmation\C#\Terminé\Puzzle\MiniPuzzle\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\Documents\_.OWEN\Programmation\C#\Terminé\Puzzle\MiniPuzzle\obj\Debug\MiniPuzzle.csprojResolveAssemblyReference.cache
+D:\Documents\_.OWEN\Programmation\C#\Terminé\Puzzle\MiniPuzzle\obj\Debug\MainWindow.g.cs
+D:\Documents\_.OWEN\Programmation\C#\Terminé\Puzzle\MiniPuzzle\obj\Debug\Switcher.g.cs
+D:\Documents\_.OWEN\Programmation\C#\Terminé\Puzzle\MiniPuzzle\obj\Debug\App.g.cs
+D:\Documents\_.OWEN\Programmation\C#\Terminé\Puzzle\MiniPuzzle\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Documents\_.OWEN\Programmation\C#\Terminé\Puzzle\MiniPuzzle\obj\Debug\MiniPuzzle_MarkupCompile.cache
+D:\Documents\_.OWEN\Programmation\C#\Terminé\Puzzle\MiniPuzzle\obj\Debug\MiniPuzzle_MarkupCompile.lref
+D:\Documents\_.OWEN\Programmation\C#\Terminé\Puzzle\MiniPuzzle\obj\Debug\MainWindow.baml
+D:\Documents\_.OWEN\Programmation\C#\Terminé\Puzzle\MiniPuzzle\obj\Debug\Switcher.baml
+D:\Documents\_.OWEN\Programmation\C#\Terminé\Puzzle\MiniPuzzle\obj\Debug\MiniPuzzle.g.resources
+D:\Documents\_.OWEN\Programmation\C#\Terminé\Puzzle\MiniPuzzle\obj\Debug\MiniPuzzle.Properties.Resources.resources
+D:\Documents\_.OWEN\Programmation\C#\Terminé\Puzzle\MiniPuzzle\obj\Debug\MiniPuzzle.csproj.GenerateResource.Cache
+D:\Documents\_.OWEN\Programmation\C#\Terminé\Puzzle\MiniPuzzle\obj\Debug\MiniPuzzle.exe
+D:\Documents\_.OWEN\Programmation\C#\Terminé\Puzzle\MiniPuzzle\obj\Debug\MiniPuzzle.pdb

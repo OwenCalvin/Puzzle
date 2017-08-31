@@ -1,0 +1,28 @@
+﻿<Border
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+        xmlns:local="clr-namespace:MiniPuzzle"
+        xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity" xmlns:ei="http://schemas.microsoft.com/expression/2010/interactions" x:Class="MiniPuzzle.Switcher"
+        mc:Ignorable="d" Background="#FFEEEEEE" MouseDown="this_MouseDown" Cursor="Hand" x:Name="Border" Padding="2" Width="45" Height="24.9">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+
+        <Ellipse x:Name="Ellipse" Fill="White">
+            <i:Interaction.Behaviors>
+                <ei:FluidMoveBehavior Duration="0:0:0.15">
+                    <ei:FluidMoveBehavior.EaseY>
+                        <ExponentialEase EasingMode="EaseInOut"/>
+                    </ei:FluidMoveBehavior.EaseY>
+                    <ei:FluidMoveBehavior.EaseX>
+                        <ExponentialEase EasingMode="EaseInOut"/>
+                    </ei:FluidMoveBehavior.EaseX>
+                </ei:FluidMoveBehavior>
+            </i:Interaction.Behaviors>
+        </Ellipse>
+    </Grid>
+</Border>
